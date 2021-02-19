@@ -1,4 +1,4 @@
-##### Namaste :U+1F64F:
+##### Namaste :pray:
 
 ## I am Ashish shetty,
 
