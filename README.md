@@ -8,11 +8,13 @@
 
  🌱 I’m currently learning **Javascript ,Node.js.**
 
- 👨‍💻 All of my projects are available in [Github](https://github.com/Ashish-j-shetty/)
+ 👨‍💻 All of my projects are available on [Github](https://github.com/Ashish-j-shetty/)
 
  💬 Ask me about **React ,Graphql.**
 
  📄 Check out my portfolio [Here.](https://ashishshetty.netlify.app/)
+ 
+ <h3>PS : More content coming soon.. </h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
