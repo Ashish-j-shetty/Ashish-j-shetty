@@ -1,5 +1,11 @@
-<h1 align="center">Hi , I'm Ashish J shetty</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Namaste , I'm Ashish J shetty</h1>
+<h3 align="center">A passionate frontend developer</h3>
+
+- 🌱 I’m currently learning **React , Js ,node.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Ashish-j-shetty/](https://github.com/Ashish-j-shetty/)
+
+- 📄 Know about my experiences [https://ashishshetty.netlify.app/](https://ashishshetty.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
