@@ -1,6 +1,4 @@
-<h1 align="left">Namaste ,
-  
-<a href="#Ashish J shetty"/> </h1>
+<h1 align="left">Namaste ,<a href="#Ashish J shetty">Ashish J shetty</a> </h1>
   
 <h3 align="left">A passionate frontend developer</h3>
 
