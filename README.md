@@ -1,4 +1,4 @@
-<h1 align="left">Namaste , I'm Ashish J shetty</h1>
+<h1 align="left">Namaste , I'm Ashish J shetty - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`</h1>
 <h3 align="left">A passionate frontend developer</h3>
 
 
