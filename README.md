@@ -12,7 +12,7 @@
 
  💬 Ask me about **React ,Graphql.**
 
- 📄 Know about my experiences [https://ashishshetty.netlify.app/](https://ashishshetty.netlify.app/)
+ 📄 Know about my experiences [https://ashishshetty.netlify.app/](Here)
 
 
 <h3 align="left">Languages and Tools:</h3>
