@@ -1,4 +1,4 @@
-### Hi there 👋
+### Namaste 🙏
 
 <!--
 **Ashish-j-shetty/Ashish-j-shetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
