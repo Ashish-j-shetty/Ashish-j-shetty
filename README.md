@@ -1,4 +1,4 @@
-<h1 align="left">Namaste , I'm Ashish J shetty https://via.placeholder.com/15/1589F0/000000?text=+</h1>
+<h1 align="left">Namaste ,<a href="Ashish J shetty" />
 <h3 align="left">A passionate frontend developer</h3>
 
 
