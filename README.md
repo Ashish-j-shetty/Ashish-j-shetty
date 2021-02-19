@@ -1,4 +1,4 @@
-<h3 align="left">Namaste ,</h3>
+<h3 align="left">Namaste :pray: </h3>
 <h1> <a href="#Ashish J shetty">Ashish J shetty</a> </h1>
 
 <h3 align="left">A passionate frontend developer</h3>
