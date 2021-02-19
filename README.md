@@ -1,19 +1,18 @@
-<h3 align="left">Namaste :pray: </h3>
-<h1> <a href="#Ashish J shetty">Ashish J shetty</a> </h1>
+<h3 align="left">Namaste :pray: , </h3>
+<h1> <a href="#Ashish J shetty"> I'm Ashish J shetty</a> </h1>
 
 <h3 align="left">A passionate frontend developer</h3>
 
 
-
 <p align="left"> <a href="https://twitter.com/ajshetty__" target="blank"><img src="https://img.shields.io/twitter/follow/ajshetty__?logo=twitter&style=for-the-badge" alt="ajshetty__" /></a> </p>
 
-- 🌱 I’m currently learning **React , Javascript ,node.js and graphql.**
+ 🌱 I’m currently learning **React , Javascript ,node.js and graphql.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ashish-j-shetty/](https://github.com/Ashish-j-shetty/)
+ 👨‍💻 All of my projects are available at [https://github.com/Ashish-j-shetty/](https://github.com/Ashish-j-shetty/)
 
-- 💬 Ask me about **React ,Graphql.**
+ 💬 Ask me about **React ,Graphql.**
 
-- 📄 Know about my experiences [https://ashishshetty.netlify.app/](https://ashishshetty.netlify.app/)
+ 📄 Know about my experiences [https://ashishshetty.netlify.app/](https://ashishshetty.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
