@@ -4,9 +4,9 @@
 <h3 align="left">A passionate frontend developer</h3>
 
 
- 🔭 I’m currently working on **React , Graphql**
+ 🔭 I’m currently working on **React , Graphql.**
 
- 🌱 I’m currently learning **Javascript ,node.js.**
+ 🌱 I’m currently learning **Javascript ,Node.js.**
 
  👨‍💻 All of my projects are available at [https://github.com/Ashish-j-shetty/](https://github.com/Ashish-j-shetty/)
 
