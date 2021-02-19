@@ -14,6 +14,8 @@
 
  📄 Check out my portfolio [Here.](https://ashishshetty.netlify.app/)
  
+ <g-emoji class="g-emoji" alias="goal_net" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f945.png"><img class="emoji" alt="goal_net" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f945.png"></g-emoji>
+ 
  <h3>PS : More content coming soon.. </h3>
 
 
