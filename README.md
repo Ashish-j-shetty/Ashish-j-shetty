@@ -16,7 +16,7 @@
  
  <g-emoji class="g-emoji" alias="goal_net" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f945.png"><img class="emoji" alt="goal_net" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f945.png"></g-emoji> 2021 goal : collaborate more to opensource projects
  
- <aside align="center"><a href="https://app.daily.dev/Ajshetty"><img src="https://api.daily.dev/devcards/a46cf094edba482e81b89f10845cbde5.png?r=974" width="400" alt="Ashish J shetty's Dev Card"/></a></aside>
+ <aside align="center"><a href="https://app.daily.dev/Ajshetty"><img src="https://github.com/Ashish-j-shetty/Ashish-j-shetty/blob/main/devcard.svg" width="400" alt="Ashish J shetty's Dev Card"/></a></aside>
 
 
 
