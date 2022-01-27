@@ -1,4 +1,25 @@
-<h3 align="left">Namaste :pray: , </h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+ <div id="badges">
+  <a href="https://www.linkedin.com/in/ashish-j-shetty/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://instagram.com/ashishshetty.exe">
+               <img src="https://img.shields.io/badge/Instagram-5851DB?style=for-the-badge&logo=instagram" alt="Instagram Badge"/>
+           </a>
+  
+  <a href="https://twitter.com/Ajshetty__">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+</div>
+
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 <h1> <a href="#Ashish J shetty"> I'm Ashish J shetty</a> </h1>
 
 <h3 align="left">A passionate frontend developer</h3>
@@ -36,9 +57,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashish-j-shetty&show_icons=true&locale=en&layout=compact" alt="ashish-j-shetty" /></p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ajshetty__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ajshetty__" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ashish-j-shetty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ashish-j-shetty" height="30" width="40" /></a>
-<a href="https://instagram.com/ashishshetty.exe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ashishshetty.exe" height="30" width="40" /></a>
-</p>
