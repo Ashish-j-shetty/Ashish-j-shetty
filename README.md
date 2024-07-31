@@ -25,13 +25,13 @@
 <h3 align="left">A passionate frontend developer</h3>
 
 
- 🔭 I’m currently working on **React , Graphql.**
+ 🔭 I’m currently working on **React , Graphql , Next.**
 
  🌱 I’m currently learning **Javascript ,Node.js.**
 
  👨‍💻 All of my projects are available on [Github](https://github.com/Ashish-j-shetty/)
 
- 💬 Ask me about **React ,Graphql.**
+ 💬 Ask me about **React ,Graphql , Next.**
 
  📄 Check out my portfolio [Here.](https://ashishshetty.netlify.app/)
  
